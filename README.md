@@ -3,7 +3,7 @@ My collected reading lists, reading recomendations, etc
 
 ## Books 
 ### Foundations 
-* Introduction to Aglorithms 
+* Introduction to Algorithms 
   * aka CLRS Algorithms
   * _the_ algorithms book, personal favorite
 * Algorithms - Robert Sedgewick
@@ -20,6 +20,7 @@ My collected reading lists, reading recomendations, etc
   * https://refactoring.com/
   * All of Marting Fowler's website & talks are worth a look
   * Nice descriptions of architecture and design patterns also
+* The Mythical Man-Month
 
 ## Articles
 * How to Write a Git Commit Message - https://chris.beams.io/posts/git-commit/
