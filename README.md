@@ -24,12 +24,14 @@ My collected reading lists, reading recomendations, etc
 * Effective Java (3rd Edition)
 * Java Concurrency in Practice
 * Desigining Data-Intensive Applications
+* Growing Object-Oriented Software, Guided by Tests
 
 ## Articles
 * How to Write a Git Commit Message - https://chris.beams.io/posts/git-commit/
 * How to make good code reviews better - https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/ 
   * re-published/updated version on stackoverflow blog. original https://blog.pragmaticengineer.com which has some more nice articles
 * On being a senior engineer - https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
+* Joel Spolsky on legacy software - https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
 * _tbc_
 
 ## Other
