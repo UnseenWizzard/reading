@@ -21,6 +21,9 @@ My collected reading lists, reading recomendations, etc
   * All of Marting Fowler's website & talks are worth a look
   * Nice descriptions of architecture and design patterns also
 * The Mythical Man-Month
+* Effective Java (3rd Edition)
+* Java Concurrency in Practice
+* Desigining Data-Intensive Applications
 
 ## Articles
 * How to Write a Git Commit Message - https://chris.beams.io/posts/git-commit/
