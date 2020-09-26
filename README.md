@@ -42,3 +42,4 @@ My collected reading lists, reading recomendations, etc
 * http://java-performance.info/
   * Java performance tuning guide – various tips on improving performance of your Java code
   * Nice overview of collections http://java-performance.info/java-collections-overview/
+* https://blog.pragmaticengineer.com
