@@ -26,6 +26,9 @@ My collected reading lists, reading recomendations, etc
 * Desigining Data-Intensive Applications
 * Growing Object-Oriented Software, Guided by Tests
 
+### Management
+* Turn the Ship Around
+
 ## Articles
 * How to Write a Git Commit Message - https://chris.beams.io/posts/git-commit/
 * How to make good code reviews better - https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/ 
