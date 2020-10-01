@@ -25,6 +25,7 @@ My collected reading lists, reading recomendations, etc
 * Java Concurrency in Practice
 * Desigining Data-Intensive Applications
 * Growing Object-Oriented Software, Guided by Tests
+* A philosophy of software design
 
 ### Management
 * Turn the Ship Around
