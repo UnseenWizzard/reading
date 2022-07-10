@@ -8,8 +8,8 @@ My collected reading lists, reading recomendations, etc
   * _the_ algorithms book, personal favorite
 * Algorithms - Robert Sedgewick
   * easier read than CLRS, some more standard/straightforward solutions than CLRS
-* Structure And Interpretation of Computer Programs
-  * https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html 
+* [Structure And Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+
 ### Development
 * The Pragmatic Programmer
 * Uncle Bob's Clean XY Series
@@ -31,13 +31,12 @@ My collected reading lists, reading recomendations, etc
 * Turn the Ship Around
 
 ## Articles
-* How to Write a Git Commit Message - https://chris.beams.io/posts/git-commit/
-* How to make good code reviews better - https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/ 
+* [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+* [How to make good code reviews better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
   * re-published/updated version on stackoverflow blog. original https://blog.pragmaticengineer.com which has some more nice articles
-* On being a senior engineer - https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
-* Joel Spolsky on legacy software - https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
-* You are not Google - https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb
-* _tbc_
+* [On being a senior engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+* [Joel Spolsky on legacy software](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+* [You are not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
 
 ## Other
 * https://martinfowler.com/
