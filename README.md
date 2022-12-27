@@ -32,8 +32,11 @@ My collected reading lists, reading recomendations, etc
 * [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 * [The Unicorn Project](https://www.goodreads.com/book/show/44333183-the-unicorn-project)
 * [Making Work Visible](https://www.goodreads.com/book/show/36458712-making-work-visible)
+* [The Culture Map](https://www.goodreads.com/en/book/show/22085568-the-culture-map)
 
 ### Leadership
+* [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://boxofcrayons.com/the-coaching-habit-book/)
+* [Radical Candor](https://www.radicalcandor.com/)
 * [The One Minute Manager - Kenneth H. Blanchard, Spencer Johnson](https://www.goodreads.com/book/show/763362.The_One_Minute_Manager)
 * Turn the Ship Around
 * [Forged in Crisis: The Power of Courageous Leadership in Turbulent Times - Nancy F. Koehn](https://www.goodreads.com/book/show/34466851-forged-in-crisis)
