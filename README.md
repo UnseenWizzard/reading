@@ -1,6 +1,18 @@
 # reading
 My collected reading lists, reading recomendations, etc
 
+- [reading](#reading)
+  - [Books](#books)
+    - [Foundations](#foundations)
+    - [Development](#development)
+    - [On Work](#on-work)
+    - [Leadership](#leadership)
+  - [Articles](#articles)
+    - [General](#general)
+    - [Leadership](#leadership-1)
+    - [Mentoring](#mentoring)
+  - [Other](#other)
+
 ## Books 
 
 ### Foundations 
@@ -68,6 +80,16 @@ My collected reading lists, reading recomendations, etc
 * [How to Stop Doing Everything Yourself](https://www.inc.com/david-finkel/how-to-stop-doing-everything-yourself.html)
 * [A 101 on 1:1s](https://engineering.atspotify.com/2015/12/a-101-on-11s/)
 * [Google re:Work - Coach with the GROW model](https://rework.withgoogle.com/guides/managers-coach-managers-to-coach/steps/coach-with-the-grow-model/)
+
+### Mentoring
+* [Developers mentoring other developers: practices I've seen work well (blog.pragmaticengineer.com)](https://blog.pragmaticengineer.com/developers-mentoring-other-developers)
+  * A great general overview of mentoring in engineering for both mentors and mentees
+  * Unlike the title suggests nothing is really only applicable to developers, but also to other roles
+* [Mentoring from privilege (lethain.com)](https://lethain.com/mentoring-from-privilege)
+  * Short take on what you should consider as a mentor
+* [The tech tribe of mentors (dmellonielet.com)](https://dmellonielet.com/2020/10/20/tech-tribe-of-mentors.html)
+  * Short take on further types of informal mentorship you might want to seek
+* [How to Be a Career-Changing Mentor — 25 Tips From The Best Mentors We Know (review.firstround.com)](https://review.firstround.com/how-to-be-a-career-changing-mentor-25-tips-from-the-best-mentors-we-know)
 
 ## Other
 * https://martinfowler.com/
