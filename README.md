@@ -80,6 +80,7 @@ My collected reading lists, reading recomendations, etc
 * [How to Stop Doing Everything Yourself](https://www.inc.com/david-finkel/how-to-stop-doing-everything-yourself.html)
 * [A 101 on 1:1s](https://engineering.atspotify.com/2015/12/a-101-on-11s/)
 * [Google re:Work - Coach with the GROW model](https://rework.withgoogle.com/guides/managers-coach-managers-to-coach/steps/coach-with-the-grow-model/)
+* [How to Help Underperformers](https://hybridhacker.email/p/how-to-help-underperformers)
 
 ### Mentoring
 * [Developers mentoring other developers: practices I've seen work well (blog.pragmaticengineer.com)](https://blog.pragmaticengineer.com/developers-mentoring-other-developers)
