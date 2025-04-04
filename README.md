@@ -65,6 +65,7 @@ My collected reading lists, reading recomendations, etc
 * [Clarity is an underrated skill](https://tomgamon.com/posts/clarity/)
 * [How to write smart goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals)
 * [10 Things Every Employee Should Know About Their One-on-Ones](https://getlighthouse.com/blog/one-on-ones-employee-know/)
+* [Balancing Engineering Investments](https://www.swarmia.com/blog/balancing-engineering-investments/)
 
 ### Leadership
 * [Situational Leadership](https://situational.com/blog/the-four-leadership-styles-of-situational-leadership/)
