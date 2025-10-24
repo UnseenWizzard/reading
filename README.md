@@ -85,6 +85,11 @@ My collected reading lists, reading recomendations, etc
 * [Mind Boxing: How Leaders (Should) Spend Their Time (The 6 Box Framework)](https://archive.ph/nGPrq)
 * [Event Loops for Managers](https://hugodias.substack.com/p/event-loops-for-managers)
 
+### Product Management
+* [Why you should stop using product roadmaps and try the GIST Framework](https://itamargilad.com/gist-framework/)
+* [Idea Prioritization With ICE and The Confidence Meter](https://itamargilad.com/the-tool-that-will-help-you-choose-better-product-ideas/)
+* [Why The Impact Effort Prioritization Matrix Doesn’t Work](https://itamargilad.com/why-impact-effort-prioritization-doesnt-work/)
+
 ### Mentoring
 * [Developers mentoring other developers: practices I've seen work well (blog.pragmaticengineer.com)](https://blog.pragmaticengineer.com/developers-mentoring-other-developers)
   * A great general overview of mentoring in engineering for both mentors and mentees
